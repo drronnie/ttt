@@ -1,1 +1,3 @@
-alert('hacked!')
+function hackIt(){
+  alert('hacked!');
+}
